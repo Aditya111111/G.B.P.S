@@ -18,7 +18,7 @@
 </style>
 </head>
 <body bgcolor="black">
-<img src="logo.jpg" height=100px width=100px>
+<img src="Logo.jpg" height=100px width=100px>
 <a href="home.html">
 <button>Home</button>
 </a>
