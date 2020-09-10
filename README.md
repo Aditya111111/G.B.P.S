@@ -17,8 +17,9 @@
  }
 </style>
 </head>
-<body bgcolor="black"><table border="1" width="100%" cellpadding="20px"><tr><th>
+<body bgcolor="black">
 <img src="Logo.jpg" height=100px width=100px>
+<table border="1" width="100%" cellpadding="20px" bgcolor="green"><tr><th>
 <a href="home.html">
 <button>Home</button>
 </a></th><th>
