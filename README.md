@@ -17,23 +17,24 @@
  }
 </style>
 </head>
-<body bgcolor="black">
+<body bgcolor="black"><table border="1" width="100%" cellpadding="20px"><tr><th>
 <img src="Logo.jpg" height=100px width=100px>
 <a href="home.html">
 <button>Home</button>
-</a>
+</a></th><th>
 <a href="about.html">
 <button>About</button>
-</a>
- <a href="gallery1.html"><button>Gallery</button></a>
-<a href="a.html"> <button>Academics</button></a>
+</a></th><th>
+ <a href="gallery1.html"><button>Gallery</button></a> </th><th>
+<a href="a.html"> <button>Academics</button></a> </th><th>
 <a href="facilities.html">
-<button>Facilities</button></a>
+<button>Facilities</button></a></th><th>
 <a href="teacher records.html">
-<button>Teacher records</button></a>
+<button>Teacher records</button></a></th><th>
 <a href="contact us.html">
-<button>Contact us</button></a><a href="website developer.html">
-<button>Website Developer</button></a>
+<button>Contact us</button></a> </th><th>
+<a href="website developer.html">
+<button>Website Developer</button></a></th></tr></table>
 	<h1 align="center"> 		<font face="Lato" color="red" size="10"> 		Gyan Bharti Public School		</font> 	</h1> 	
 <img src="file:///storage/emulated/0/Download/IMG_20200316_124823.jpg" height=1750 width=1000>
 </body>
