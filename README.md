@@ -36,6 +36,6 @@
 <a href="website developer.html">
 <button>Website Developer</button></a></th></tr></table>
 	<h1 align="center"> 		<font face="Lato" color="red" size="10"> 		Gyan Bharti Public School		</font> 	</h1> 	
-<img src="file:///storage/emulated/0/Download/IMG_20200316_124823.jpg" height=1750 width=1000>
+<img src="photo.jpg" height=1750 width=1000>
 </body>
 </html>
