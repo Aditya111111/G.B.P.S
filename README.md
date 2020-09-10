@@ -1,21 +1,5 @@
 ﻿<html>
-<head><title>G.B.P.S</title>
-<style>
- button
-    {
-      font-size: 16px;
-      background-color: orange;
-      padding: 6px;
-      border-radius: 6px;
-      margin: 6px;
-      transition: 1.5s;
-     }
- .button:hover
-  {
-    0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
- 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
- }
-</style>
+<head><title>G.B.P.S</title> <style> button { font-size: 16px; background-color: orange; padding: 6px; border-radius: 6px; margin: 6px; transition: 1.5s; } .button:hover { 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee; 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee; } </style>
 </head>
 <body bgcolor="black">
 <img src="file:///storage/emulated/0/Download/images.jpeg" height=100px width=100px>
